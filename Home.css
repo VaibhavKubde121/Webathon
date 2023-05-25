@@ -1,0 +1,25 @@
+.nav-item a{
+    font-size: 21px;
+    color: white;
+}
+.nav-item a:hover{
+    text-decoration: underline;
+    color: cadetblue;
+}
+.dropdown-menu li a{
+    color: black;
+}
+.modal-body{
+    /* background-image: url(Image/backgound6.jpg); */
+    background-color: rgb(94, 89, 89);
+}
+.mb-3 label{
+    color:black
+}
+.mb-3 input:focus {
+    outline: none ;
+    border-bottom: 2px solid rgb(91, 243, 131);
+    font-size: 17px;
+    font-weight: bold;
+    color: white;
+  }

@@ -1,0 +1,75 @@
+/* Our Shedule */
+
+.days h1{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 60px;
+    color: #fff;
+ }
+ .days p{
+    text-align: center;
+ }
+ .days .container .monday{
+    /* background-color: #5cfffc; */
+    background-color: #a7c5e2;
+ }
+ .days .container .tuesday{
+    /* background-color:greenyellow; */
+    background-color:#a7c5e2;
+ }
+ .days .container .wednesday{
+    /* background-color:orange; */
+    background-color: #a7c5e2;
+ }
+ .days .container .thursday{
+    /* background-color:yellow; */
+    background-color: #a7c5e2;
+ }
+ .days .container .friday{
+    /* background-color: purple; */
+    background-color:#a7c5e2;
+ }
+ .days .container .saturday{
+    background-color: #a7c5e2;
+ }
+ .days .container .sunday{
+    /* background-color: blueviolet; */
+    background-color: #a7c5e2;
+ }
+ .days .container{
+    background-color: #011c39;
+    border: 2px solid white;
+    margin-bottom: 20px;
+    margin-top: 20px;
+ }
+ .days .card-body a
+ {
+    background-color: rgb(207, 44, 44);
+    font-size: 1.3rem;
+    font-family: 'Roboto Slab', serif;
+ }
+ .days .card-body a:hover
+ {
+    background-color: green;
+    font-size: 1.3rem;
+    font-family: 'Roboto Slab', serif;
+ }
+ .days .card{
+    border-radius: 20px;
+    margin-bottom: 25px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    overflow: hidden;
+ }
+ .days{
+    border: 2px solid black;
+    /* background:#02162b ; */
+    /* background: rgb(14, 13, 13); */
+    background: #1d1b1b
+ }
+ 
+ .name{
+    text-align: center;
+    margin:40px 0px ;
+    text-decoration: green underline
+ 
+ }

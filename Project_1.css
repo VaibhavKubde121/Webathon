@@ -1,0 +1,10 @@
+.navbar-brand img{
+    width: 60px;
+    border-radius: 50%;
+}
+.navbar-brand img :hover{
+    transform: scale(1.2);
+}
+.navbar .nav-item a :active {
+    text-decoration: underline;
+}
